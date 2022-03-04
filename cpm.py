@@ -32,7 +32,7 @@ config = ConfigParser.RawConfigParser()
 config.read('config.properties')
 
 def load_dataset(data_path,behav_path):
-    data = sio.loadmat(os.path.join(data_path,'all_mats.mat'))
+    data = sio.loadmat(data_path)
     X = data['data']
     p = X.shape[0]
     n = X.shape[2]
