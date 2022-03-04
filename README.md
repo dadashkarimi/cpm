@@ -3,6 +3,10 @@ connectome-based predictive modeling
 
 This is a repository for connectome-based predictive modeling based on ridge regression. Original implementation based in python, MATLAB, and C++ is provided in [YaleMRRC](https://github.com/YaleMRRC/CPM).
 
+```
+python cpm.py
+```
+
 ## Configuration file
 In this file all you need is to provide appropriate directories for your connectomes, behavioral values, and model.
 
