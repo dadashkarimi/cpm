@@ -22,7 +22,7 @@ iterations=10
 abcd=/home/javid/datasets/data/abcd/all_behav.csv
   
 [path]
-abcd=/data_dustin/store4/Templates/ABCD
+abcd=/data_dustin/store4/Templates/ABCD/all_mats.mat
 
 ```
 
