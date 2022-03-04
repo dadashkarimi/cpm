@@ -7,7 +7,7 @@ This is a repository for connectome-based predictive modeling based on ridge reg
 In this file all you need is to provide appropriate directories for your connectomes, behavioral values, and model.
 
 
-``
+```
 [default]
 model=cpm
 database=abcd
@@ -20,4 +20,4 @@ abcd=/home/javid/datasets/data/abcd/all_behav.csv
 [path]
 abcd=/data_dustin/store4/Templates/ABCD
 
-``
+```
