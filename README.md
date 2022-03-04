@@ -26,7 +26,6 @@ abcd=/data_dustin/store4/Templates/ABCD
 Output file is a simple csv file including cross-validation results for each iteration of your model.
 
 ```
-,0
 0,-0.02839778149855917
 1,-0.02839778149855917
 2,-0.02839778149855917
